@@ -70,3 +70,19 @@ img {
   border: none;
   font-size: 20px;
 }
+#login-form input {
+  border-radius: 3px;
+  border: none;
+  padding: 3px;
+  margin-bottom: 10px;
+}
+#login-form input:focus {
+  outline: none;
+}
+#login-form button {
+  border: none;
+  padding: 5px;
+  border-radius: 3px;
+  background-color: cadetblue;
+  color: white;
+}
